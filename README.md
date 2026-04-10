@@ -1,6 +1,8 @@
 
 REPO URL = https://github.com/sudhanshu543115/C-B
 
+DEPLOYED URL = https://c-kappa-swart.vercel.app/
+
 CURRELNTLY WORKING ON THIS 
 
 
