@@ -7,6 +7,24 @@ CURRELNTLY WORKING ON THIS
 
 
 
+<img width="1919" height="992" alt="image" src="https://github.com/user-attachments/assets/c2a381ee-ab4f-4d0a-be27-ec2466b7a1db" />
+
+<img width="1105" height="568" alt="image" src="https://github.com/user-attachments/assets/545674ec-e3ff-4d4c-b920-de0a7d5387b7" />
+
+<img width="1895" height="979" alt="image" src="https://github.com/user-attachments/assets/690868e0-9006-435b-8cf6-e9f9f0cda406" />
+
+
+<img width="1918" height="969" alt="image" src="https://github.com/user-attachments/assets/f1bb7422-d5f0-46fc-9ab4-327914ee68c1" />
+
+<img width="1911" height="980" alt="image" src="https://github.com/user-attachments/assets/a6221c25-4f6b-4807-825f-8480cd8ef005" />
+
+
+
+
+
+
+
+
 
 
 ├── 📁 app/                          # Next.js App Router
